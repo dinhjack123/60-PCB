@@ -3,4 +3,5 @@
   (lib (name "Type-C")(type "KiCad")(uri "C:/Users/djack/60-PCB/Type-C.pretty")(options "")(descr ""))
   (lib (name "random-keyboard-parts")(type "KiCad")(uri "C:/Users/djack/60-PCB/random-keyboard-parts.pretty")(options "")(descr ""))
   (lib (name "Kailh_PG1353_Hotswap")(type "KiCad")(uri "C:/Users/djack/60-PCB/MX_V2/Kailh_PG1353_Hotswap.pretty")(options "")(descr ""))
+  (lib (name "MX_Hotswap")(type "KiCad")(uri "C:/Users/djack/60-PCB/MX_V2/MX_Hotswap.pretty")(options "")(descr ""))
 )
